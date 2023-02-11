@@ -3,10 +3,10 @@ public class Controller {
         System.out.println("gitNew@1.0.0");
         System.out.println("gitNew@1.0.1");
         System.out.println("master test");
-
+        
         System.out.println("hot-fix");
           System.out.println("pull  test");
-
+        System.out.println("clone test");
 
     }
 }
